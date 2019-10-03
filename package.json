@@ -2,5 +2,12 @@
   "name": "co.creativegaming.upmtest",
   "displayName": "ThisBetterFuckingWork",
   "description": "Matt, make this work",
-  "version": "0.0.4"
+  "version": "0.0.5",
+  "samples": [
+    {
+      "displayName": "Sample 1",
+      "description": "This is a damn sample, ok?",
+      "path": "Samples~/Sample1"
+    }
+  ]
 }
